@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant-jain03" alt="vedant-jain03" /></a> </p>
 
-- 🌱 I’m currently learning **React,Node.js,MongoDB**
+- 🌱 I’m currently learning **React,firebase**
 
 - 👨‍💻 All of my projects are available at [https://vedant-jain03.github.io/portfolio/](https://vedant-jain03.github.io/portfolio/)
 
-- 💬 Ask me about **Cpp,Competitive coding,DSA,HTML/CSS/JS**
+- 💬 Ask me about **Cpp,Competitive coding,DSA,open Source , WEB**
 
 - 📫 How to reach me **vedantjainben10@gmail.com**
 
