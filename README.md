@@ -3,8 +3,6 @@
 <h3 align="center"><Enthusiastic Learner /></h3>
 
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
 
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
