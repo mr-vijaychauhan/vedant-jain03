@@ -2,6 +2,7 @@
 <h1 align="center">नमस्ते (Namaste), Hi 👋, I'm Vedant Jain</h1>
 <h3 align="center"><Enthusiastic Learner /></h3>
 
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
 ![age](https://img.shields.io/badge/age-19-blue)
