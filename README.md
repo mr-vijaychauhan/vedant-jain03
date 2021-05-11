@@ -1,12 +1,14 @@
-<h1 align="center">Hello There 🤙,I am Vedant </h1>
+<h1 align="center">Hello There 🤙,I am Vedant Jain </h1>
 
-<h3 align="center"> Enthusiastic Learner | Web Developer </h3>
+<h3 align="center"> Enthusiastic Learner 📖 | Web Developer 💻 </h3>
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-<p align="center"> Hello My name is Vedant Jain, This is my new project Github Profile Readme Generator. </p>
+<p align="center"> I am persuing my BTech degree in Computer Scince Stream from Gyan Ganga Institute of Technology and Scineces, Jabalpur. I am Passionate about Open-Source Contribution and also got Selected in GSSOC'21 where I contributed to various Web Project and also end up with Decent Ranking and Points.<br />
+Familiar with: React, HTML,CSS,JS, PWA, CHROME EXTENSION, C++ , C ,PYTHON, GIT , GITHUB, VSCODE
+</p>
 
 <h3> Skills: HTML, CSS React</h3>
 
@@ -16,22 +18,22 @@
 
 <h2 align="left"> What I am Doing? </h2>
 
-<h3>🚧 I’m currently working on Hashhub</h3>
+🚧 I’m currently working on Hashhub (Open-Source)
 
-<h3>🗡️ Look At My this Project Github Profile Generator</h3>
+🗡️ Look At My this [Github Profile Readme Generator](https://github.com/vedant-jain03/Github-Profile-Readme-Generator)
 
-<h3>📑 I'm Currently Learning React</h3>
+📑 I'm Currently Learning React 
 
-<h3>🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website Portfolio</h3>
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website [Portfolio](https://vedant-jain03.github.io/portfolio/) 
 
-<h3>🏅 My Favourite Hobby BB</h3>
+🏅 My Favourite Hobby Basket Ball
 
-<h3>📣 Ask Me About Open _source</h3>
+📣 Ask Me About Open Source, Git,Github , Web Development, DSA, Competetive Programming
 
 
 <h2 align="center">Connect Me In</h2>
 
-<a href="URL" target="black" alt=URL> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' height="30" width="40" /> </a><a href="URL" target="black" alt=Fb Url> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' height="30" width="40" /> </a><a href="URL" target="black" alt=Ig url> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' height="30" width="40" /> </a><a href="URL" target="black" alt=Linkedin > <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a><a href="URL" target="black" alt=yt url> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a><a href="URL" target="black" alt=rt url> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' height="30" width="40" /> </a>
+<a href="https://www.codechef.com/users/vedant_jain09" target="black" alt=URL> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' height="30" width="40" /> </a><a href="https://www.instagram.com/me_vj07/?igshid=c94xu5jlash9" target="black" alt=Ig url> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' height="30" width="40" /> </a><a href="https://www.linkedin.com/in/vedant-jain-781006145" target="black" alt=Linkedin > <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=vedant-jain03" alt="vedant-jain03"> </p>
 
