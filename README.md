@@ -10,7 +10,7 @@
 Familiar with: React, HTML,CSS,JS, PWA, CHROME EXTENSION, C++ , C ,PYTHON, GIT , GITHUB, VSCODE
 </p>
 
-<h3> Skills: HTML, CSS React</h3>
+<h3> Skills: HTML, CSS, JS,React, Git, Github, C++</h3>
 
 <h3> College: Gyan Ganga Institute of Technology and Sciences,Jabalpur </h3> <br />
 
