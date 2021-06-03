@@ -20,7 +20,10 @@ Familiar with: React, HTML,CSS,JS, PWA, CHROME EXTENSION, C++ , C ,PYTHON, GIT ,
 
 🚧 I’m currently working on Hashhub (Open-Source)
 
-🗡️ Look At My this [Github Profile Readme Generator](https://github.com/vedant-jain03/Github-Profile-Readme-Generator)
+🗡️ Look At My these Projects: <br />
+[Github Profile Readme Generator](https://github.com/vedant-jain03/Github-Profile-Readme-Generator/)
+<br />
+[Certificate Generator](https://vedant-jain03.github.io/certificate-generator/)
 
 📑 I'm Currently Learning React 
 
