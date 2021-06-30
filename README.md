@@ -30,7 +30,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<h3 align="left"> What I am Doing? </h3>
+<h3 align="left">💻 What I am Doing? </h3>
 
 🚧 I’m currently working on [Hashhub](https://github.com/vedant-jain03/HashHub)
 
