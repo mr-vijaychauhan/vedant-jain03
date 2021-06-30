@@ -2,7 +2,6 @@
 
 <h3 align="center"> Enthusiastic Learner 📖 | Web Developer 💻 </h3>
 
-
 ![Vedant's github activity graph](https://activity-graph.herokuapp.com/graph?username=vedant-jain03&bg_color=424242&color=42ffa4&line=00ff9d&point=1a6aff&area=true&hide_border=true)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vedant-jain03&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-jain03"> </p>
@@ -36,11 +35,13 @@
 🚧 I’m currently working on [Hashhub](https://github.com/vedant-jain03/HashHub)
 
 🗡️ Look At My these Projects: <br />
+[Resume Maker](https://github.com/vedant-jain03/Resume-Maker)
+<br />
 [Github Profile Readme Generator](https://github.com/vedant-jain03/Github-Profile-Readme-Generator/)
 <br />
 [Certificate Generator](https://vedant-jain03.github.io/certificate-generator/)
 
-📑 I'm Currently Learning React
+📑 I'm Currently Learning React.
 
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website [Portfolio](https://vedant-jain03.github.io/portfolio/) 
 
@@ -53,7 +54,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-jain03&show_icons=true&locale=en&layout=compact" alt="vedant-jain03" >
 <img src="https://github-readme-stats.vercel.app/api?username=vedant-jain03&show_icons=true&locale=en" alt="vedant-jain03" >
 
-<h3 align="left">Connect Me In</h3>
+<h3 align="center">Connect Me In</h3>
+<div align="center">
+  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vedant-jain-781006145/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vedant-jain03.github.io/portfolio/)
 
-<a href="https://www.codechef.com/users/vedant_jain09" target="black" alt=URL><img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' height="30" width="40" /> </a><a href="https://www.instagram.com/me_vj07/?igshid=c94xu5jlash9" target="black" alt=Ig url> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' height="30" width="40" /> </a><a href="https://www.linkedin.com/in/vedant-jain-781006145" target="black" alt=Linkedin > <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a>
-
+</div>
