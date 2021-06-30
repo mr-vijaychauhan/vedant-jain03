@@ -33,7 +33,7 @@
 
 <h3 align="left"> What I am Doing? </h3>
 
-🚧 I’m currently working on ![Hashhub](https://github.com/vedant-jain03/HashHub)
+🚧 I’m currently working on [Hashhub](https://github.com/vedant-jain03/HashHub)
 
 🗡️ Look At My these Projects: <br />
 [Github Profile Readme Generator](https://github.com/vedant-jain03/Github-Profile-Readme-Generator/)
