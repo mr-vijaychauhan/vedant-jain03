@@ -49,7 +49,11 @@
 
 📣 Ask Me About Open Source, Git,Github , Web Development, DSA, Competetive Programming
 
-<h3 align="center">My Github Stats</h3>
+<br />
+
+<h2 align="center">My Github Stats</h2>
+
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-jain03&show_icons=true&locale=en&layout=compact" alt="vedant-jain03" >
 <img src="https://github-readme-stats.vercel.app/api?username=vedant-jain03&show_icons=true&locale=en" alt="vedant-jain03" >
