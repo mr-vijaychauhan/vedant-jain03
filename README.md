@@ -49,13 +49,17 @@
 
 📣 Ask Me About Open Source, Git,Github , Web Development, DSA, Competetive Programming
 
-<h3 align="left">My Github Stats</h3>
-<div>
+<h3 align="center">My Github Stats</h3>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-jain03&show_icons=true&locale=en&layout=compact" alt="vedant-jain03" >
 <img src="https://github-readme-stats.vercel.app/api?username=vedant-jain03&show_icons=true&locale=en" alt="vedant-jain03" >
 </div>
+
+<div align="center" >
+  
 <img src="https://metrics.lecoq.io/vedant-jain03" alt="Github Metrics">
 
+</div>
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 
 <h3 align="center">Connect Me In</h3>
